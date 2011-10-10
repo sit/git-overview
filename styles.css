@@ -1,0 +1,11 @@
+body {
+  background: #000044;
+}
+
+div.slide p {
+  font-size: 28px;
+}
+
+div.slide section * {
+  font-size: 28px;
+}
